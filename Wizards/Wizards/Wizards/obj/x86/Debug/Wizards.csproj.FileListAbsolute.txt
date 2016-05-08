@@ -1,0 +1,17 @@
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Content\Buttons\Back.xnb
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Content\Buttons\MenuButton.xnb
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Content\Buttons\Play.xnb
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Content\Buttons\PressedMenuButton.xnb
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Content\Buttons\Quit.xnb
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Content\Buttons\SelectedMenuButton.xnb
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Content\Mouse.xnb
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Content\TextBox.xnb
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Content\Font.xnb
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Content\ButtonFont.xnb
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Wizards.exe
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Wizards.pdb
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\bin\x86\Debug\Lidgren.Network.dll
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\obj\x86\Debug\Wizards.csprojResolveAssemblyReference.cache
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\obj\x86\Debug\Wizards.exe
+D:\Games\Dropbox\Games\Wizards\Wizards\Wizards\obj\x86\Debug\Wizards.pdb

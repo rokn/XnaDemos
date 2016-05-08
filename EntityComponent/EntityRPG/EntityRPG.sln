@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityRPG", "EntityRPG\EntityRPG\EntityRPG.csproj", "{D344ECF7-4E75-4AB9-9F47-0D3C4DF99B2A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "EntityRPGContent", "EntityRPG\EntityRPGContent\EntityRPGContent.contentproj", "{F3AA7E8B-761A-4A69-BBB5-90C5CAD59700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D344ECF7-4E75-4AB9-9F47-0D3C4DF99B2A}.Debug|x86.ActiveCfg = Debug|x86
+		{D344ECF7-4E75-4AB9-9F47-0D3C4DF99B2A}.Debug|x86.Build.0 = Debug|x86
+		{D344ECF7-4E75-4AB9-9F47-0D3C4DF99B2A}.Release|x86.ActiveCfg = Release|x86
+		{D344ECF7-4E75-4AB9-9F47-0D3C4DF99B2A}.Release|x86.Build.0 = Release|x86
+		{F3AA7E8B-761A-4A69-BBB5-90C5CAD59700}.Debug|x86.ActiveCfg = Debug|x86
+		{F3AA7E8B-761A-4A69-BBB5-90C5CAD59700}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

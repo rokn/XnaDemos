@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleships", "WindowsGame1\WindowsGame1\Battleships.csproj", "{1E143BD5-C013-40B1-AB55-09F406DA53FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame1Content", "WindowsGame1\WindowsGame1Content\WindowsGame1Content.contentproj", "{966CF957-01F7-4FC6-B971-D3786B2BC062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{14EA9969-B8A1-431E-A4E4-C6A0CC2D0970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E143BD5-C013-40B1-AB55-09F406DA53FF}.Debug|x86.ActiveCfg = Debug|x86
+		{1E143BD5-C013-40B1-AB55-09F406DA53FF}.Debug|x86.Build.0 = Debug|x86
+		{1E143BD5-C013-40B1-AB55-09F406DA53FF}.Release|x86.ActiveCfg = Release|x86
+		{1E143BD5-C013-40B1-AB55-09F406DA53FF}.Release|x86.Build.0 = Release|x86
+		{966CF957-01F7-4FC6-B971-D3786B2BC062}.Debug|x86.ActiveCfg = Debug|x86
+		{966CF957-01F7-4FC6-B971-D3786B2BC062}.Release|x86.ActiveCfg = Release|x86
+		{14EA9969-B8A1-431E-A4E4-C6A0CC2D0970}.Debug|x86.ActiveCfg = Debug|x86
+		{14EA9969-B8A1-431E-A4E4-C6A0CC2D0970}.Debug|x86.Build.0 = Debug|x86
+		{14EA9969-B8A1-431E-A4E4-C6A0CC2D0970}.Release|x86.ActiveCfg = Release|x86
+		{14EA9969-B8A1-431E-A4E4-C6A0CC2D0970}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

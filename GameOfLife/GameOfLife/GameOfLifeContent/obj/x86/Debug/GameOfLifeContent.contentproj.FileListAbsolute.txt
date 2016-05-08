@@ -1,0 +1,2 @@
+D:\Dropbox\Tasks for Summer\GameOfLife\GameOfLife\GameOfLifeContent\obj\x86\Debug\GameOfLifeContent.contentprojResolveAssemblyReference.cache
+D:\Dropbox\Programming\XNA\GameOfLife\GameOfLife\GameOfLifeContent\obj\x86\Debug\GameOfLifeContent.contentprojResolveAssemblyReference.cache

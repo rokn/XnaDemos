@@ -1,0 +1,9 @@
+D:\Games\Dropbox\Games\Wizards\WizardsServer\bin\Debug\WizardsServer.exe.config
+D:\Games\Dropbox\Games\Wizards\WizardsServer\bin\Debug\WizardsServer.exe
+D:\Games\Dropbox\Games\Wizards\WizardsServer\bin\Debug\WizardsServer.pdb
+D:\Games\Dropbox\Games\Wizards\WizardsServer\bin\Debug\Lidgren.Network.dll
+D:\Games\Dropbox\Games\Wizards\WizardsServer\bin\Debug\Microsoft.Xna.Framework.dll
+D:\Games\Dropbox\Games\Wizards\WizardsServer\bin\Debug\Microsoft.Xna.Framework.xml
+D:\Games\Dropbox\Games\Wizards\WizardsServer\obj\Debug\WizardsServer.csprojResolveAssemblyReference.cache
+D:\Games\Dropbox\Games\Wizards\WizardsServer\obj\Debug\WizardsServer.exe
+D:\Games\Dropbox\Games\Wizards\WizardsServer\obj\Debug\WizardsServer.pdb

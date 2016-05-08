@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2014-11-23T19:55:19.5614856+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MessageFont.spritefont</Source>
+      <Name>MessageFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\MessageFont.xnb</Output>
+      <Time>2014-11-26T21:57:25.8200634+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Effect1.fx</Source>
+      <Name>Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Effect1.xnb</Output>
+      <Time>2014-11-23T19:55:19.5524851+02:00</Time>
+    </Item>
+    <Item>
+      <Source>lightmask.png</Source>
+      <Name>lightmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\lightmask.xnb</Output>
+      <Time>2014-11-23T19:55:19.5634857+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Mouse.png</Source>
+      <Name>Mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Mouse.xnb</Output>
+      <Time>2014-11-23T19:55:19.5654858+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Flashlight.png</Source>
+      <Name>Player\Flashlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\Flashlight.xnb</Output>
+      <Time>2014-11-23T19:55:19.5144829+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Police_Gun.png</Source>
+      <Name>Player\Police_Gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\Police_Gun.xnb</Output>
+      <Time>2014-11-23T19:55:19.516483+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Police_Hand.png</Source>
+      <Name>Player\Police_Hand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\Police_Hand.xnb</Output>
+      <Time>2014-11-23T19:55:19.5194832+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Police_Hand2.png</Source>
+      <Name>Player\Police_Hand2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\Police_Hand2.xnb</Output>
+      <Time>2014-11-23T19:55:19.5214833+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Police_Walk.png</Source>
+      <Name>Player\Police_Walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\Police_Walk.xnb</Output>
+      <Time>2014-12-03T23:46:22.1227123+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\Projectile_0.png</Source>
+      <Name>Projectiles\Projectile_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Projectiles\Projectile_0.xnb</Output>
+      <Time>2014-11-23T19:55:19.5284837+02:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\TileMarker.png</Source>
+      <Name>TileSets\TileMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\TileSets\TileMarker.xnb</Output>
+      <Time>2014-11-23T19:55:19.5344841+02:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_0.png</Source>
+      <Name>TileSets\Tileset_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\TileSets\Tileset_0.xnb</Output>
+      <Time>2014-11-23T19:55:19.550485+02:00</Time>
+    </Item>
+    <Item>
+      <Source>WhitePixel.png</Source>
+      <Name>WhitePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\WhitePixel.xnb</Output>
+      <Time>2014-11-23T19:55:19.567486+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Lamp.png</Source>
+      <Name>Lamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Lamp.xnb</Output>
+      <Time>2014-11-24T21:13:50.1819493+02:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_1.png</Source>
+      <Name>TileSets\Tileset_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\TileSets\Tileset_1.xnb</Output>
+      <Time>2014-11-24T20:39:52.5384027+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Laser.png</Source>
+      <Name>Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Laser.xnb</Output>
+      <Time>2014-11-25T23:28:08.8315821+02:00</Time>
+    </Item>
+    <Item>
+      <Source>LaserBase.png</Source>
+      <Name>LaserBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\LaserBase.xnb</Output>
+      <Time>2014-11-25T23:29:21.864315+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\HealthBar.png</Source>
+      <Name>Player\HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\HealthBar.xnb</Output>
+      <Time>2014-11-28T18:40:38.0325496+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\HealthBarBackground.png</Source>
+      <Name>Player\HealthBarBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\HealthBarBackground.xnb</Output>
+      <Time>2014-11-28T19:06:23.0639204+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Terrorist_Hand.png</Source>
+      <Name>Player\Terrorist_Hand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\Terrorist_Hand.xnb</Output>
+      <Time>2014-11-29T14:51:15.9491636+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Terrorist_Hand2.png</Source>
+      <Name>Player\Terrorist_Hand2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\Terrorist_Hand2.xnb</Output>
+      <Time>2014-11-29T14:51:29.5389409+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Terrorist_Walk.png</Source>
+      <Name>Player\Terrorist_Walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\Terrorist_Walk.xnb</Output>
+      <Time>2014-12-09T23:14:48.5864131+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Crossbow.png</Source>
+      <Name>Player\Crossbow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\Crossbow.xnb</Output>
+      <Time>2014-11-30T00:13:56.016071+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\Projectile_1.png</Source>
+      <Name>Projectiles\Projectile_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Projectiles\Projectile_1.xnb</Output>
+      <Time>2014-11-30T00:23:43.3495868+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\PlayerLight.png</Source>
+      <Name>Player\PlayerLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\PlayerLight.xnb</Output>
+      <Time>2014-12-02T00:00:43.9299632+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\BulletLight.png</Source>
+      <Name>Player\BulletLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\BulletLight.xnb</Output>
+      <Time>2014-12-02T09:45:13.5927228+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\LaserAlarm.png</Source>
+      <Name>Misc\LaserAlarm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Misc\LaserAlarm.xnb</Output>
+      <Time>2014-12-04T10:48:38.8532569+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\Grenade.png</Source>
+      <Name>Projectiles\Grenade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Projectiles\Grenade.xnb</Output>
+      <Time>2014-12-04T18:30:24.3280821+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\GrenadeLight.png</Source>
+      <Name>Projectiles\GrenadeLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Projectiles\GrenadeLight.xnb</Output>
+      <Time>2014-12-13T17:17:08.5775412+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Circle.png</Source>
+      <Name>Circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Circle.xnb</Output>
+      <Time>2014-12-07T19:00:08.3762249+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\SmokeBomb.png</Source>
+      <Name>Projectiles\SmokeBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Projectiles\SmokeBomb.xnb</Output>
+      <Time>2014-12-08T11:11:51.9978906+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GunShot.wav</Source>
+      <Name>Sounds\GunShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Sounds\GunShot.xnb</Output>
+      <Time>2014-11-23T19:55:19.5314839+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\CrossbowShot.wav</Source>
+      <Name>Sounds\CrossbowShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Sounds\CrossbowShot.xnb</Output>
+      <Time>2014-11-30T11:49:45.0747631+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\StepSound.wav</Source>
+      <Name>Sounds\StepSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Sounds\StepSound.xnb</Output>
+      <Time>2014-12-09T21:47:02.7862266+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Helicopter.png</Source>
+      <Name>Helicopter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Helicopter.xnb</Output>
+      <Time>2014-12-11T12:36:25.8803662+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\HelicopterSound.wav</Source>
+      <Name>Sounds\HelicopterSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Sounds\HelicopterSound.xnb</Output>
+      <Time>2014-12-10T14:10:13.7387615+02:00</Time>
+    </Item>
+    <Item>
+      <Source>RopeLadder.png</Source>
+      <Name>RopeLadder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\RopeLadder.xnb</Output>
+      <Time>2014-12-12T18:21:03.0494204+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Police_climb_down.png</Source>
+      <Name>Player\Police_climb_down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\Player\Police_climb_down.xnb</Output>
+      <Time>2014-12-12T19:41:01.0538506+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7AAD02B0-DA9F-44BD-AE8C-FCCE18775C69}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNotContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Antonio\Documents\Visual Studio 2013\Projects\StealthOrNot\StealthOrNot\StealthOrNot\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-22T12:30:27.5897549+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

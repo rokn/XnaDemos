@@ -1,0 +1,301 @@
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.pdb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.pdb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.csprojResolveAssemblyReference.cache
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\Character.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\HealthBar.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\HealthBarBackGround.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\Character.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\HealthBar.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\HealthBarBackGround.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\009-Weapon04.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\009-Weapon04.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Lancer.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Lancer.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Font.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Font.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\CatProjectile.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\CatProjectile.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Cursor.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Cursor.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.csprojResolveAssemblyReference.cache
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBar.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBarBackground.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBar.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBarBackground.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\RightPart.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\RightPart.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Fighter.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Axe.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Fighter.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Axe.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Circle.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\Character.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Lancer.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\CatProjectile.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Cursor.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBar.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBarBackground.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\RightPart.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Fighter.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Axe.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Circle.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Font.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.pdb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.csprojResolveAssemblyReference.cache
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.pdb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\KittenMeow.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Skeleton.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\CastleGate.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\009-Weapon04.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\Character.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Lancer.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\CatProjectile.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Cursor.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBar.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBarBackground.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\RightPart.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Fighter.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Axe.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Circle.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Skeleton.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\CastleGate.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Font.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\KittenMeow.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.pdb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\MessageFont.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBar.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBarBackGround.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe.manifest
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.application
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe.manifest
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.application
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBar.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBarBackGround.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe.manifest
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.application
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe.manifest
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.application
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\TextBox.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_0.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBar.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBarBackGround.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\Character.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Lancer.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\CatProjectile.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Cursor.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBar.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBarBackground.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\RightPart.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Fighter.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Axe.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Circle.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Skeleton.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\CastleGate.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\TextBox.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_0.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Font.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\KittenMeow.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe.manifest
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.application
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe.manifest
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.application
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe
+C:\Users\frost_000\Dropbox\Home Programming\Shared\TopScrollingGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.pdb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBar.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBarBackGround.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\Character.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Lancer.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\CatProjectile.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Cursor.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBar.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBarBackground.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\RightPart.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Fighter.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Axe.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Circle.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Skeleton.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\CastleGate.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\TextBox.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_0.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Font.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\KittenMeow.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe.manifest
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.application
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.pdb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe.manifest
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.application
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.pdb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_1.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_1.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_2.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_2.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.csprojResolveAssemblyReference.cache
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBar.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBarBackGround.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\Character.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Lancer.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\CatProjectile.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Cursor.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBar.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBarBackground.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\RightPart.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Fighter.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Axe.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Circle.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Skeleton.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\CastleGate.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\TextBox.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_1.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_2.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_0.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Font.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\MessageFont.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\KittenMeow.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe.manifest
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.application
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.pdb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe.manifest
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.application
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.pdb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Scorpion.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Poison.xnb
+D:\Games\Dropbox\SharedGame\SharedGame\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Thief.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Scorpion.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Poison.xnb
+C:\Users\frost_000\Dropbox\Home Programming\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Thief.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.csprojResolveAssemblyReference.cache
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBar.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBarBackGround.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\Character.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Lancer.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\CatProjectile.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Cursor.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBar.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBarBackground.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\RightPart.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Fighter.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Axe.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Circle.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Skeleton.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\CastleGate.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\TextBox.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_1.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_2.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_0.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Scorpion.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Poison.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Thief.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Font.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\MessageFont.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\KittenMeow.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe.manifest
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.application
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.pdb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe.manifest
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.application
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.pdb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBar.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\HealthBarBackGround.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\Character.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Lancer.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Player\CatProjectile.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Cursor.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBar.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\HealthBarBackground.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\RightPart.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Fighter.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Axe.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Circle.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Skeleton.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\CastleGate.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\TextBox.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_1.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_2.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_0.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Scorpion.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Poison.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Thief.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Font.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\KittenMeow.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\BackgroundMusic.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe.manifest
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.application
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.exe
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\TopScrollingGame.pdb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe.manifest
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.application
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.exe
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\obj\x86\Debug\TopScrollingGame.pdb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Fire.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Fire.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_3.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_3.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_4.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\PowerUps\PowerUp_4.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Boss.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Pentagram.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Scythe.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Background\Myst.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\MystyCastle.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\SideMyst.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Lazor.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Boss.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Pentagram.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Scythe.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Background\Myst.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\MystyCastle.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\GUI\SideMyst.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sprites\Enemies\Lazor.xnb
+C:\Users\frost_000\Documents\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\LaterLevelsMusic.xnb
+D:\Games\Dropbox\SharedGame\Folder\SharedGame\TopScrollingGame\TopScrollingGame\TopScrollingGame\bin\x86\Debug\Content\Sounds\LaterLevelsMusic.xnb

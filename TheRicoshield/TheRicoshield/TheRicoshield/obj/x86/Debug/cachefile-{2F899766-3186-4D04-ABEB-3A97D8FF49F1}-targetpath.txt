@@ -1,0 +1,9 @@
+Content\Player\Player.xnb
+Content\Player\WoodShield.xnb
+Content\Mouse.xnb
+Content\Balls\Armadillo_0.xnb
+Content\Font.xnb
+Content\ButtonFont.xnb
+Content\Walls\HorizontalWall.xnb
+Content\Walls\VerticalWall.xnb
+Content\Blocks\Block.xnb

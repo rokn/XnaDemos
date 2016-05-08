@@ -1,0 +1,8 @@
+D:\Games\WizardsUltimate\WindowsGame1\Server\bin\Debug\Server.exe
+D:\Games\WizardsUltimate\WindowsGame1\Server\bin\Debug\Server.pdb
+D:\Games\WizardsUltimate\WindowsGame1\Server\bin\Debug\Lidgren.Network.dll
+D:\Games\WizardsUltimate\WindowsGame1\Server\bin\Debug\Lidgren.Network.pdb
+D:\Games\WizardsUltimate\WindowsGame1\Server\bin\Debug\Lidgren.Network.xml
+D:\Games\WizardsUltimate\WindowsGame1\Server\obj\x86\Debug\Server.exe
+D:\Games\WizardsUltimate\WindowsGame1\Server\obj\x86\Debug\Server.pdb
+D:\Games\WizardsUltimate\WindowsGame1\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Dropbox\Passion\EntityRPG\EntityRPG\EntityRPG\bin\x86\Debug\EntityRPG.exe
+D:\Dropbox\Passion\EntityRPG\EntityRPG\EntityRPG\bin\x86\Debug\EntityRPG.pdb
+D:\Dropbox\Passion\EntityRPG\EntityRPG\EntityRPG\bin\x86\Debug\artemis.dll
+D:\Dropbox\Passion\EntityRPG\EntityRPG\EntityRPG\bin\x86\Debug\artemis.xml
+D:\Dropbox\Passion\EntityRPG\EntityRPG\EntityRPG\obj\x86\Debug\EntityRPG.csprojResolveAssemblyReference.cache
+D:\Dropbox\Passion\EntityRPG\EntityRPG\EntityRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\Passion\EntityRPG\EntityRPG\EntityRPG\obj\x86\Debug\EntityRPG.exe
+D:\Dropbox\Passion\EntityRPG\EntityRPG\EntityRPG\obj\x86\Debug\EntityRPG.pdb

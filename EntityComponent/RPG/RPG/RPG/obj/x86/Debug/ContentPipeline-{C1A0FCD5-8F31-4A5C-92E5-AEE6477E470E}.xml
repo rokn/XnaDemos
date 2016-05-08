@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Misc\Mouse.png</Source>
+      <Name>Misc\Mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\Misc\Mouse.xnb</Output>
+      <Time>2015-08-20T13:06:45+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font.spritefont</Source>
+      <Name>Fonts\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\Fonts\Font.xnb</Output>
+      <Time>2015-08-20T13:26:53+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\TileMarker.png</Source>
+      <Name>TileSets\TileMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\TileMarker.xnb</Output>
+      <Time>2015-08-20T14:15:05+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (0).png</Source>
+      <Name>TileSets\Tileset_ (0)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (0).xnb</Output>
+      <Time>2015-08-20T14:15:05+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (1).png</Source>
+      <Name>TileSets\Tileset_ (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (1).xnb</Output>
+      <Time>2015-08-20T14:15:05+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (10).png</Source>
+      <Name>TileSets\Tileset_ (10)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (10).xnb</Output>
+      <Time>2015-08-20T14:15:05+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (11).png</Source>
+      <Name>TileSets\Tileset_ (11)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (11).xnb</Output>
+      <Time>2015-08-20T14:15:05+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (12).png</Source>
+      <Name>TileSets\Tileset_ (12)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (12).xnb</Output>
+      <Time>2015-08-20T14:15:05+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (13).png</Source>
+      <Name>TileSets\Tileset_ (13)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (13).xnb</Output>
+      <Time>2015-08-20T14:15:05+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (14).png</Source>
+      <Name>TileSets\Tileset_ (14)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (14).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (15).png</Source>
+      <Name>TileSets\Tileset_ (15)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (15).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (16).png</Source>
+      <Name>TileSets\Tileset_ (16)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (16).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (17).png</Source>
+      <Name>TileSets\Tileset_ (17)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (17).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (18).png</Source>
+      <Name>TileSets\Tileset_ (18)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (18).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (19).png</Source>
+      <Name>TileSets\Tileset_ (19)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (19).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (2).png</Source>
+      <Name>TileSets\Tileset_ (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (2).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (20).png</Source>
+      <Name>TileSets\Tileset_ (20)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (20).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (21).png</Source>
+      <Name>TileSets\Tileset_ (21)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (21).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (22).png</Source>
+      <Name>TileSets\Tileset_ (22)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (22).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (23).png</Source>
+      <Name>TileSets\Tileset_ (23)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (23).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (24).png</Source>
+      <Name>TileSets\Tileset_ (24)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (24).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (25).png</Source>
+      <Name>TileSets\Tileset_ (25)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (25).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (26).png</Source>
+      <Name>TileSets\Tileset_ (26)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (26).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (27).png</Source>
+      <Name>TileSets\Tileset_ (27)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (27).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (28).png</Source>
+      <Name>TileSets\Tileset_ (28)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (28).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (29).png</Source>
+      <Name>TileSets\Tileset_ (29)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (29).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (3).png</Source>
+      <Name>TileSets\Tileset_ (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (3).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (30).png</Source>
+      <Name>TileSets\Tileset_ (30)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (30).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (31).png</Source>
+      <Name>TileSets\Tileset_ (31)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (31).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (32).png</Source>
+      <Name>TileSets\Tileset_ (32)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (32).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (33).png</Source>
+      <Name>TileSets\Tileset_ (33)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (33).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (34).png</Source>
+      <Name>TileSets\Tileset_ (34)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (34).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (35).png</Source>
+      <Name>TileSets\Tileset_ (35)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (35).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (36).png</Source>
+      <Name>TileSets\Tileset_ (36)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (36).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (37).png</Source>
+      <Name>TileSets\Tileset_ (37)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (37).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (38).png</Source>
+      <Name>TileSets\Tileset_ (38)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (38).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (39).png</Source>
+      <Name>TileSets\Tileset_ (39)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (39).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (4).png</Source>
+      <Name>TileSets\Tileset_ (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (4).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (40).png</Source>
+      <Name>TileSets\Tileset_ (40)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (40).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (41).png</Source>
+      <Name>TileSets\Tileset_ (41)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (41).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (42).png</Source>
+      <Name>TileSets\Tileset_ (42)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (42).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (5).png</Source>
+      <Name>TileSets\Tileset_ (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (5).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (6).png</Source>
+      <Name>TileSets\Tileset_ (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (6).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (7).png</Source>
+      <Name>TileSets\Tileset_ (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (7).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (8).png</Source>
+      <Name>TileSets\Tileset_ (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (8).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\Tileset_ (9).png</Source>
+      <Name>TileSets\Tileset_ (9)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\TileSets\Tileset_ (9).xnb</Output>
+      <Time>2015-08-20T14:15:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\WarriorWalk.png</Source>
+      <Name>Player\WarriorWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\Player\WarriorWalk.xnb</Output>
+      <Time>2015-08-21T01:15:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\RangerWalk.png</Source>
+      <Name>Player\RangerWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\Player\RangerWalk.xnb</Output>
+      <Time>2015-08-22T00:35:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\WizardWalk.png</Source>
+      <Name>Player\WizardWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\Player\WizardWalk.xnb</Output>
+      <Time>2015-08-22T00:37:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BasicAttacks\WarriorBasic.png</Source>
+      <Name>BasicAttacks\WarriorBasic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\BasicAttacks\WarriorBasic.xnb</Output>
+      <Time>2015-08-24T03:03:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BasicAttacks\RangerBasic.png</Source>
+      <Name>BasicAttacks\RangerBasic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\BasicAttacks\RangerBasic.xnb</Output>
+      <Time>2015-08-24T13:33:21+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BasicAttacks\WizardBasic.png</Source>
+      <Name>BasicAttacks\WizardBasic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\BasicAttacks\WizardBasic.xnb</Output>
+      <Time>2015-08-24T13:33:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\PlayerHealthBarBack.png</Source>
+      <Name>Misc\PlayerHealthBarBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\Misc\PlayerHealthBarBack.xnb</Output>
+      <Time>2015-08-25T00:39:53+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C1A0FCD5-8F31-4A5C-92E5-AEE6477E470E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Dropbox\Passion\RPG\RPG\RPGContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Dropbox\Passion\RPG\RPG\RPG\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Dropbox\Passion\RPG\RPG\RPG\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Dropbox\Passion\RPG\RPG\RPG\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-07-22T00:46:23.8270042+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

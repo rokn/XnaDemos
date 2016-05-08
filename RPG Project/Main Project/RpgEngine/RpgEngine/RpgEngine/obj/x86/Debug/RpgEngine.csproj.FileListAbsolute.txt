@@ -1,0 +1,8 @@
+D:\Dropbox\RPG Project\Main Project\RpgEngine\RpgEngine\RpgEngine\bin\x86\Debug\RpgEngine.exe
+D:\Dropbox\RPG Project\Main Project\RpgEngine\RpgEngine\RpgEngine\bin\x86\Debug\RpgEngine.pdb
+D:\Dropbox\RPG Project\Main Project\RpgEngine\RpgEngine\RpgEngine\obj\x86\Debug\RpgEngine.csprojResolveAssemblyReference.cache
+D:\Dropbox\RPG Project\Main Project\RpgEngine\RpgEngine\RpgEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\RPG Project\Main Project\RpgEngine\RpgEngine\RpgEngine\obj\x86\Debug\RpgEngine.exe
+D:\Dropbox\RPG Project\Main Project\RpgEngine\RpgEngine\RpgEngine\obj\x86\Debug\RpgEngine.pdb
+D:\Dropbox\RPG Project\Main Project\RpgEngine\RpgEngine\RpgEngine\bin\x86\Debug\Content\Font.xnb
+D:\Dropbox\RPG Project\Main Project\RpgEngine\RpgEngine\RpgEngine\bin\x86\Debug\Content\Mouse.xnb

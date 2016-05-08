@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife", "GameOfLife\GameOfLife\GameOfLife.csproj", "{B9D192C8-0189-47BC-BEA8-7348A4573D58}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GameOfLifeContent", "GameOfLife\GameOfLifeContent\GameOfLifeContent.contentproj", "{17809A19-DDEE-4195-9FB0-CEB309F4408B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D192C8-0189-47BC-BEA8-7348A4573D58}.Debug|x86.ActiveCfg = Debug|x86
+		{B9D192C8-0189-47BC-BEA8-7348A4573D58}.Debug|x86.Build.0 = Debug|x86
+		{B9D192C8-0189-47BC-BEA8-7348A4573D58}.Release|x86.ActiveCfg = Release|x86
+		{B9D192C8-0189-47BC-BEA8-7348A4573D58}.Release|x86.Build.0 = Release|x86
+		{17809A19-DDEE-4195-9FB0-CEB309F4408B}.Debug|x86.ActiveCfg = Debug|x86
+		{17809A19-DDEE-4195-9FB0-CEB309F4408B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

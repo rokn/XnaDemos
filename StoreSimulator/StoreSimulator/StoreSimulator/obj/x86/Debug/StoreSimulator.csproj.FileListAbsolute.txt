@@ -1,0 +1,8 @@
+D:\Dropbox\StoreSimulator\StoreSimulator\StoreSimulator\StoreSimulator\obj\x86\Debug\StoreSimulator.csprojResolveAssemblyReference.cache
+D:\Dropbox\StoreSimulator\StoreSimulator\StoreSimulator\StoreSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\StoreSimulator\StoreSimulator\StoreSimulator\StoreSimulator\bin\x86\Debug\Content\Mouse.xnb
+D:\Dropbox\StoreSimulator\StoreSimulator\StoreSimulator\StoreSimulator\bin\x86\Debug\Content\Font.xnb
+D:\Dropbox\StoreSimulator\StoreSimulator\StoreSimulator\StoreSimulator\bin\x86\Debug\StoreSimulator.exe
+D:\Dropbox\StoreSimulator\StoreSimulator\StoreSimulator\StoreSimulator\bin\x86\Debug\StoreSimulator.pdb
+D:\Dropbox\StoreSimulator\StoreSimulator\StoreSimulator\StoreSimulator\obj\x86\Debug\StoreSimulator.exe
+D:\Dropbox\StoreSimulator\StoreSimulator\StoreSimulator\StoreSimulator\obj\x86\Debug\StoreSimulator.pdb

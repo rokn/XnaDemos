@@ -1,0 +1,14 @@
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Lidgren.Network.dll
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Lidgren.Network.pdb
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Lidgren.Network.xml
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\WaterTile.xnb
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\boat1.xnb
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\boat2.xnb
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bars.xnb
+D:\Games\WizardsUltimate\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bars_back.xnb

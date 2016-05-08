@@ -1,0 +1,17 @@
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\Content\Line.xnb
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\CuttingEdge.exe
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\CuttingEdge.pdb
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\obj\x86\Debug\CuttingEdge.csprojResolveAssemblyReference.cache
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\obj\x86\Debug\CuttingEdge.exe
+F:\Dropbox\Programming\XNA\CuttingEdge\CuttingEdge\CuttingEdge\obj\x86\Debug\CuttingEdge.pdb

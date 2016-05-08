@@ -1,0 +1,8 @@
+D:\Dropbox\StoreSimulator\Turtle\Turtle\Turtle\obj\x86\Debug\Turtle.csprojResolveAssemblyReference.cache
+D:\Dropbox\StoreSimulator\Turtle\Turtle\Turtle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\StoreSimulator\Turtle\Turtle\Turtle\bin\x86\Debug\Content\Font.xnb
+D:\Dropbox\StoreSimulator\Turtle\Turtle\Turtle\bin\x86\Debug\Content\Mouse.xnb
+D:\Dropbox\StoreSimulator\Turtle\Turtle\Turtle\bin\x86\Debug\Turtle.exe
+D:\Dropbox\StoreSimulator\Turtle\Turtle\Turtle\bin\x86\Debug\Turtle.pdb
+D:\Dropbox\StoreSimulator\Turtle\Turtle\Turtle\obj\x86\Debug\Turtle.exe
+D:\Dropbox\StoreSimulator\Turtle\Turtle\Turtle\obj\x86\Debug\Turtle.pdb

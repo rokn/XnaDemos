@@ -1,0 +1,15 @@
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Tanks.exe
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Tanks.pdb
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.exe
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.pdb
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Mouse.xnb
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Font.xnb
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Terrain\Terrain.xnb
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Tanks\Tank_Base.xnb
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Tanks\Tank_Gun.xnb
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.csprojResolveAssemblyReference.cache
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Bullets\Bullet.xnb
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Bullets\Explosion_Small.xnb
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Content\Bullets\Explosion_Smallest.xnb
+D:\Games\Dropbox\Games\Tanks\Tanks\Tanks\bin\x86\Debug\Lidgren.Network.dll

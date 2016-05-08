@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Buttons\Back.png</Source>
+      <Name>Buttons\Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\Back.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\ClassButton.png</Source>
+      <Name>Buttons\ClassButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\ClassButton.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Create.png</Source>
+      <Name>Buttons\Create</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\Create.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Delete.png</Source>
+      <Name>Buttons\Delete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\Delete.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\MenuButton.png</Source>
+      <Name>Buttons\MenuButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\MenuButton.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Play.png</Source>
+      <Name>Buttons\Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\Play.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\PressedClassButton.png</Source>
+      <Name>Buttons\PressedClassButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\PressedClassButton.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\PressedMenuButton.png</Source>
+      <Name>Buttons\PressedMenuButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\PressedMenuButton.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Quit.png</Source>
+      <Name>Buttons\Quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\Quit.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\RangerClass.png</Source>
+      <Name>Buttons\RangerClass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\RangerClass.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\SelectedClassButton.png</Source>
+      <Name>Buttons\SelectedClassButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\SelectedClassButton.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\SelectedMenuButton.png</Source>
+      <Name>Buttons\SelectedMenuButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\SelectedMenuButton.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\WarriorClass.png</Source>
+      <Name>Buttons\WarriorClass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\WarriorClass.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\WizardClass.png</Source>
+      <Name>Buttons\WizardClass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Buttons\WizardClass.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Hair_0.png</Source>
+      <Name>Character\Hair_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Character\Hair_0.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Player_Standing.png</Source>
+      <Name>Character\Player_Standing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Character\Player_Standing.xnb</Output>
+      <Time>2014-08-23T15:26:08.6359828+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Player_Walk.png</Source>
+      <Name>Character\Player_Walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Character\Player_Walk.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\HealthBar_BackGround.png</Source>
+      <Name>GUI\HealthBar_BackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\GUI\HealthBar_BackGround.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\SpellBase.png</Source>
+      <Name>GUI\SpellBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\GUI\SpellBase.xnb</Output>
+      <Time>2014-08-19T17:28:20.7523433+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\SpellBase2.png</Source>
+      <Name>GUI\SpellBase2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\GUI\SpellBase2.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\CellTexture.png</Source>
+      <Name>Inventory\CellTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Inventory\CellTexture.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Equipment_Base.png</Source>
+      <Name>Inventory\Equipment_Base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Inventory\Equipment_Base.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Equipment_Chestplate.png</Source>
+      <Name>Inventory\Equipment_Chestplate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Inventory\Equipment_Chestplate.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Equipment_Weapon.png</Source>
+      <Name>Inventory\Equipment_Weapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Inventory\Equipment_Weapon.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\SelectedCellTexture.png</Source>
+      <Name>Inventory\SelectedCellTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Inventory\SelectedCellTexture.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Item_0.png</Source>
+      <Name>Items\Item_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Items\Item_0.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Item_1.png</Source>
+      <Name>Items\Item_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Items\Item_1.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Item_2.png</Source>
+      <Name>Items\Item_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Items\Item_2.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Item_3.png</Source>
+      <Name>Items\Item_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Items\Item_3.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Item_4.png</Source>
+      <Name>Items\Item_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Items\Item_4.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Mouse.png</Source>
+      <Name>Mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Mouse.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\RedStar.png</Source>
+      <Name>Particles\RedStar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Particles\RedStar.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\Proj_0.png</Source>
+      <Name>Projectiles\Proj_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Projectiles\Proj_0.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\Proj_1.png</Source>
+      <Name>Projectiles\Proj_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Projectiles\Proj_1.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\ArcaneMissiles.png</Source>
+      <Name>Spells\ArcaneMissiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Spells\ArcaneMissiles.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\Fireball.png</Source>
+      <Name>Spells\Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Spells\Fireball.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\LightningArc.png</Source>
+      <Name>Spells\LightningArc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Spells\LightningArc.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\LightningCenter.png</Source>
+      <Name>Spells\LightningCenter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Spells\LightningCenter.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\Ligthning.png</Source>
+      <Name>Spells\Ligthning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Spells\Ligthning.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\SpellCD.png</Source>
+      <Name>Spells\SpellCD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Spells\SpellCD.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TextBox.png</Source>
+      <Name>TextBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\TextBox.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Stash.png</Source>
+      <Name>Tiles\Stash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Tiles\Stash.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2014-08-20T23:38:35.8211519+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\Effect.fx</Source>
+      <Name>Spells\Effect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Spells\Effect.xnb</Output>
+      <Time>2014-08-20T15:03:52.7782407+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\IceStrike.png</Source>
+      <Name>Spells\IceStrike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Spells\IceStrike.xnb</Output>
+      <Time>2014-08-20T16:25:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\Proj_2.png</Source>
+      <Name>Projectiles\Proj_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Projectiles\Proj_2.xnb</Output>
+      <Time>2014-08-20T22:49:21.476173+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Spells\Teleport.png</Source>
+      <Name>Spells\Teleport</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Spells\Teleport.xnb</Output>
+      <Time>2014-08-20T16:57:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\HealthBar.png</Source>
+      <Name>Enemies\HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Enemies\HealthBar.xnb</Output>
+      <Time>2014-08-19T17:28:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Enemy_0.png</Source>
+      <Name>Enemies\Enemy_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Enemies\Enemy_0.xnb</Output>
+      <Time>2014-08-20T17:26:27+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\HealthBar_Bar.png</Source>
+      <Name>GUI\HealthBar_Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\GUI\HealthBar_Bar.xnb</Output>
+      <Time>2014-08-20T17:57:06.7462171+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Player_SwordSwing.png</Source>
+      <Name>Character\Player_SwordSwing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Character\Player_SwordSwing.xnb</Output>
+      <Time>2014-08-23T15:36:59+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Player_SwordSwingReverse.png</Source>
+      <Name>Character\Player_SwordSwingReverse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Character\Player_SwordSwingReverse.xnb</Output>
+      <Time>2014-08-23T15:37:57+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Player_SwordCombo.png</Source>
+      <Name>Character\Player_SwordCombo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\Character\Player_SwordCombo.xnb</Output>
+      <Time>2014-08-23T16:20:36+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\RpgContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\RpgContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Games\Dropbox\Anothe dumb name\Rpg\Rpg\Rpg\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-08-19T15:00:57.903755+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

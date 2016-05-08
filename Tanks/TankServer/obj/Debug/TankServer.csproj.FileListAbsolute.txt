@@ -1,0 +1,7 @@
+D:\Games\Dropbox\Games\Tanks\TankServer\obj\Debug\TankServer.csprojResolveAssemblyReference.cache
+D:\Games\Dropbox\Games\Tanks\TankServer\bin\Debug\TankServer.exe.config
+D:\Games\Dropbox\Games\Tanks\TankServer\bin\Debug\TankServer.exe
+D:\Games\Dropbox\Games\Tanks\TankServer\bin\Debug\TankServer.pdb
+D:\Games\Dropbox\Games\Tanks\TankServer\bin\Debug\Lidgren.Network.dll
+D:\Games\Dropbox\Games\Tanks\TankServer\obj\Debug\TankServer.exe
+D:\Games\Dropbox\Games\Tanks\TankServer\obj\Debug\TankServer.pdb

@@ -1,0 +1,4 @@
+D:\Games\Dropbox\Games\PowerOfOne\PowerOfOne\PowerOfOneContent\obj\x86\Debug\PowerOfOneContent.contentprojResolveAssemblyReference.cache
+D:\Games\Dropbox\GitHub\PowerOfOne\PowerOfOne\PowerOfOneContent\obj\x86\Debug\PowerOfOneContent.contentprojResolveAssemblyReference.cache
+D:\Dropbox\GitHub\PowerOfOne\PowerOfOne\PowerOfOneContent\obj\x86\Debug\PowerOfOneContent.contentprojResolveAssemblyReference.cache
+F:\Dropbox\Programming\XNA\PowerOfOne\PowerOfOne\PowerOfOneContent\obj\x86\Debug\PowerOfOneContent.contentprojResolveAssemblyReference.cache
